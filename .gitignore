@@ -1,0 +1,16 @@
+*.suo
+cpp/vc/opcdadevsyncreadstress/Debug/opcdaauto.tlh
+*.tli
+cpp/vc/opcdadevsyncreadstress/Debug/opcdadev.ACBB4D84.tlog/CL.command.1.tlog
+*.tlog
+cpp/vc/opcdadevsyncreadstress/Debug/opcdadevsyncreadstress.Build.CppClean.log
+*.exe
+cpp/vc/opcdadevsyncreadstress/Debug/opcdadevsyncreadstress.ilk
+*.log
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ipch
+*.sdf
+*.opendb
