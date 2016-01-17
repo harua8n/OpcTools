@@ -14,3 +14,5 @@ cpp/vc/opcdadevsyncreadstress/Debug/opcdadevsyncreadstress.ilk
 *.ipch
 *.sdf
 *.opendb
+*.tlh
+*.ilk
